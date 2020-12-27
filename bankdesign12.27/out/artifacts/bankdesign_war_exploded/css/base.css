@@ -1,0 +1,143 @@
+.header{
+   background-color: #DCDCDC;
+   width: 1800px;
+   height: 70px;
+}
+.header .header-img{
+   width: 80px;
+   height: 50px;
+   margin-left: 50px;
+}
+.header .header-login{
+   margin-left: 1000px;
+}
+.header .header-register{
+
+}
+.footer{
+   background-color: #DCDCDC;
+   width: 1800px;
+   height: 200px;
+}
+.footer .footer-img{
+   margin-left: 500px;
+}
+.footer .footer-wenzibox{
+   width: 1800px;
+   height: 100px;
+}
+.footer .footer-wenzibox .footer-wenzi{
+   float: left;
+   margin-left: 150px;
+}
+.login-box{
+   background-color: #87CEFA;
+   width: 600px;
+   height: 300px;
+   margin-left: 300px;
+}
+.login-box .login-box-yonghuwenzi{
+   margin-left: 200px;
+   float: left;
+   margin-top: 30px;
+}
+.login-box .login-box-yonghuinput{
+   margin-top: 30px;
+   margin-left: 15px;
+}
+.login-box .login-box-passwordwenzi{
+   margin-left: 200px;
+   margin-top: 100px;
+}
+.login-box .login-box-passwordinput{
+   float: left;
+   margin-left: 250px;
+   margin-top: -20px;
+}
+.login-box .login-box-submit{
+   margin-top: 50px;
+   /* margin-right: -100px; */
+   margin-left: -150px;
+   width: 100px;
+}
+.register-box{
+   background-color: #87CEFA;
+   width: 600px;
+   height: 300px;
+   margin-left: 300px;
+}
+.register-box .register-box-yonghuwenzi{
+   margin-left: 200px;
+}
+.register-box .register-box-yonghuinput{
+   margin-left: 260px;
+   margin-top: -20px;
+}
+.register-box .register-box-passwordwenzi{
+   margin-left: 200px;
+   margin-top: 30px;
+}
+.register-box .register-box-passwordinput{
+   margin-left: 260px;
+   margin-top: -20px;
+}
+.register-box .register-box-passwordwenzi2{
+   margin-top: 40px;
+   margin-left: 200px;
+}
+.register-box .register-box-passwordinput2{
+   margin-left: 320px;
+   margin-top: -20px;
+}
+.register-box .register-box-phonewenzi{
+   margin-top: 40px;
+   margin-left: 200px;
+}
+.register-box .register-box-phoneinput{
+   margin-left: 260px;
+}
+.register-box .register-box-submit{
+   margin-left: 250px;
+   margin-top: 50px;
+   width: 100px;
+}
+.registercard1-box{
+   background-color: #FFFBCD;
+   width: 400px;
+   height: 400px;
+   margin-left: 400px;
+}
+.registercard1-box .registercard1-box-wenzi{
+
+}
+.registercard1-box .registercard1-box-input{
+   margin-left: 100px;
+}
+.registercard1-box .registercard1-box-submit{
+   margin-left: 150px;
+   margin-top: 100px;
+}
+.registercard1-box .registercard1-box-liuyan{
+   margin-left: 80px;
+   margin-top: 40px;
+}
+.registercard2-box{
+   background-color: #FFFBCD;
+   width: 400px;
+   height: 600px;
+   margin-left: 400px;
+}
+.registercard2-box .registercard2-box-wenzi{
+
+}
+.registercard2-box .registercard2-box-input{
+   margin-left: 100px;
+}
+.registercard2-box .registercard2-box-submit{
+   margin-left: 150px;
+   margin-top: 100px;
+}
+.registercard2-box .registercard2-box-liuyan{
+   margin-left: 80px;
+   margin-top: 40px;
+}
