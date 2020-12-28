@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bankdesign:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/bankdesign_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="bankdesign/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bankdesign" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/setup/commons-dbutils-1.7/commons-dbutils-1.7.jar" />
+          <element id="file-copy" path="D:/setup/fastjson-1.2.52.jar" />
+          <element id="file-copy" path="D:/setup/jar/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="D:/setup/swing包/forms-1.2.1.jar" />
+          <element id="file-copy" path="D:/setup/json-20201115.jar" />
+          <element id="file-copy" path="D:/setup/jakarta-taglibs-standard-1.1.2/lib/jstl.jar" />
+          <element id="file-copy" path="D:/setup/jakarta-taglibs-standard-1.1.2/lib/standard.jar" />
+          <element id="file-copy" path="D:/setup/mchange-commons-java-0.2.3.4.jar" />
+          <element id="file-copy" path="D:/setup/taglibs-standard-jstlel-1.2.5.jar" />
+          <element id="file-copy" path="D:/setup/jar/mysql-connector-java-5.1.44-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
