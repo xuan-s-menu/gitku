@@ -1,0 +1,75 @@
+.adminhearer{
+    width: 1280px;
+    height: 60px;
+    background-color: #0000FF;
+    /* font-style: normal; */
+    text-align: center;
+}
+.adminindex{
+    width: 400px;
+    height: 200px;
+    margin-left: 400px;
+    background-color: #00BFFF;
+}
+.adminindex .adminindex-box1{
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.adminindex .adminindex-box2{
+
+}
+.adminindex .adminindex-box3{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 70px;
+}
+.adminindex .adminindex-box4{
+
+}
+.admincheckuser{
+    width: 1800px;
+    height: 50px;
+    background-color: #FFFF00;
+   /* margin-left: 200px;*/
+}
+.admincheckuser .admincheckuser-id{
+    float: left;
+}
+.admincheckuser .admincheckuser-name{
+    float: left;
+    margin-left: 100px;
+}
+.admincheckuser .admincheckuser-password {
+    float: left;
+    margin-left: 100px;
+}
+.admincheckuser .admincheckuser-phone{
+    float: left;
+    margin-left: 100px;
+}
+.admincheckuser .admincheckuser-button{
+    float: left;
+    margin-left: 100px;
+}
+.admincheckuser .admincheckuser-liuyanyonghuid{
+    float: left;
+}
+.admincheckuser .admincheckuser-liuyanuid{
+    margin-left: 500px;
+}
+.admincheckuser .admincheckuser-liuyan-button{
+    margin-left: 1000px;
+    width: 100px;
+}
+.admincheckuser-box{
+    width: 1800px;
+    height: 20px;
+    background-color: #00BFFF;
+    /*margin-left: 200px;*/
+}
+.admincheckuser-box2{
+    width: 100px;
+    height: 50px;
+    margin-left: 550px;
+}

@@ -1,0 +1,22 @@
+.cardlist-box{
+    background-color: #008B8B;
+    width: 400px;
+    height: 100px;
+    margin-left: 400px;
+}
+.cardlist-box .cardlist-box-wenzi{
+    font-size: 18px;
+    padding-top: 10px;
+}
+.cardlist-fenge{
+    width:400px;
+    height:40px;
+    background-color: #FFFACD;
+    margin-left: 400px;
+}
+.cardlist-fenge2{
+    width:400px;
+    height:40px;
+    background-color: #CD5C5C;
+    margin-left: 400px;
+}
